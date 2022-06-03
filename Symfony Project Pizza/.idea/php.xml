@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/composer" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/Project_Pizza/vendor/symfony/polyfill-php80" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+</project>

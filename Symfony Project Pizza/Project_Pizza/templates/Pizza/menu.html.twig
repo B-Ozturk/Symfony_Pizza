@@ -1,0 +1,22 @@
+{% extends "base.html.twig" %}
+{% block body %}
+
+<div class="container">
+    <h1 class="text-center">Wij beschikken over {{ pizzas|length }} soorten pizza's</h1>
+
+    <div class="row gy-3">
+        {% for pizza   in pizzas %}
+            <div class=" col-12 col-md-4">
+                <div class="card text-center" style="width: 20rem;">
+                    <img src="../img/pizzas/{{ pizza.image }}.jpg " class="card-img-top" alt="{{ pizza.name }}">
+                    <div class="card-body">
+                        <h5 class="card-title ">{{ pizza.name }}</h5>
+                        <a href="{{ path("app_order", {id: pizza.id}) }}" class="btn btn-primary btn-center">Bestel</a>
+                    </div>
+                </div><br>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock %}
